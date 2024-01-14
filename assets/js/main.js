@@ -10,44 +10,34 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
   ".digitalhouse",
-  `Trabalhei como instrutor conteudista em frontend na
-  Digital House, o trabalho consistia em criar conteúdos para as
-  aulas de especialização frontend. Alguns temas dos conteúdos
-  realizados foram: React, Redux, TypeScript, Testes,
-  GraphQL, Next.js, MUI, React Hook Form e styled-components.`,
-  "Professor conteudista em Frontend",
-  "Digital House",
-  "Nov 2021 - Nov 2022 (1 ano)"
+  `Full-Stack geliştirici olarak devam ettiğim bu süreçte yanımda olan herkese teşekkür ediyorum. Bu yol boyunca kendimi geliştirerek devam ettim ve halen daha devam etmekteyim. Uzun zamandır başkaları bünyesi altında çalıştığım için artık kendi işimin patronu olmamın sırası geldiğini düşünerekten MustCodes'u oluşturdum.`,
+  "Full-Stack Geliştirici",
+  "MustCodes",
+  "Ocak 2024 - (devam ediyor)"
 );
 
 hoverChangeExperience(
   ".zuplae",
-  `Trabalhei como Social Media e Designer na Zuplae que é um escola
-  de programação, onde teve como foco as criações de conteúdos sobre
-  programação para a comunidade dev através das redes sociais.`,
-  "Social Media e UI Designer",
-  "Zuplae",
-  "Jan 2022 - Abril 2022 (4 meses)"
+  `Thetis Development, kendi oluşturduğum insanların birbirinden destek alabileceği bir Discord platformudur. Bu platformda insanlar kodlama esnasında yaşadıkları hataları bizlere bildirip ardından yardım alarak hatalarını düzeltmişlerdir. Thetis Dev. 2 yıl içerisinde 124.000 aktif kullanıcıya ulaşmıştır. Yönetici görevimden istifa ederek platformu devrettim.`,
+  "Üst Düzey Yönetici",
+  "Thetis Dev",
+  "Kasım 2021 - Aralık 2023 (2 yıl 1 ay)"
 );
 
 hoverChangeExperience(
   ".codigofontetv",
-  `Trabalhei como Social Media e Designer no Código Fonte TV, 
-  onde teve como foco as criações de conteúdos sobre programação 
-  para a comunidade dev através das redes sociais.`,
-  "Social Media e Designer",
-  "Código Fonte TV",
-  "Jun 2021 - Jan 2022 (8 meses)"
+  `FynxCode Discord botlarına özel yapılmış kodlar paylaşan bir sunucudur. Sahibi Utku ile zamanında bu sunucuda tanıştık. Sunucuya olan katkılarımdan paylaştığım kodlar dolayısıyla bana Moderatörlük vermiştir. Sunucuya bir insanın olabileceğinden çok hizmet verdim. Sunucu için özel botlar kodladım. Herkes kullanımından memnundu ve gayet işlevliydi. Anlaşmazlık sonucu sunucudan ayrıldım. `,
+  "Discord Sunucu Moderatörlüğü",
+  "FynxCode",
+  "Nisan 2020 - Ekim 2021 (1 yıl 6 ay)"
 );
 
 hoverChangeExperience(
   ".contweb",
-  `Realizei o estágio na ContWeb, uma empresa de contabilidade. 
-  Onde pela primeira vez tive experiência com o React. Além do
-  desenvolvimento frontend criei os designs da nova plataforma da empresa.`,
-  "Developer frontend e UI Designer",
-  "ContWeb",
-  "Set 2021 - Nov 2021 (3 meses)"
+  `Kodlamada yüksek başarılar yaptığım bu dönemlerde kendimi bu sunucuda insanlara faydalı olabilecek şeyler üretmek için adadım. Zamanla kendimi de geliştirdim. Kodlarım gelişti ve o zaman yaklaşık 200.000 kişiye hizmet verdim. Kodların paylaşılabileceği bir websitesi yaptım. Burada sadece biz yöneticiler değil. Diğer üyelerimiz de kod paylaşımı yapabiliyordu. Kod sunucularında ilk paralı kod satın alımını burada biz gerçekleştirdik. Belli bir koda ulabilmek için belli bir ücret ödemek gerekiyordu. İlk defa bir ödeme altyapısı yapmıştım.`,
+  "Kodlama Eğitmeni",
+  "CodAre",
+  "Şubat 2017 - Mart 2020  (3 yıl 1 ay)"
 );
 
 hoverChangeDescription(
