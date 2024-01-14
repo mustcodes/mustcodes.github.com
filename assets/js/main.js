@@ -25,7 +25,7 @@ hoverChangeExperience(
 );
 
 hoverChangeExperience(
-  ".codigofontetv",
+  ".contweb",
   `FynxCode Discord botlarına özel yapılmış kodlar paylaşan bir sunucudur. Sahibi Utku ile zamanında bu sunucuda tanıştık. Sunucuya olan katkılarımdan paylaştığım kodlar dolayısıyla bana Moderatörlük vermiştir. Sunucuya bir insanın olabileceğinden çok hizmet verdim. Sunucu için özel botlar kodladım. Herkes kullanımından memnundu ve gayet işlevliydi. Anlaşmazlık sonucu sunucudan ayrıldım. `,
   "Discord Sunucu Moderatörlüğü",
   "FynxCode",
@@ -33,7 +33,7 @@ hoverChangeExperience(
 );
 
 hoverChangeExperience(
-  ".contweb",
+  ".codigofontetv",
   `Kodlamada yüksek başarılar yaptığım bu dönemlerde kendimi bu sunucuda insanlara faydalı olabilecek şeyler üretmek için adadım. Zamanla kendimi de geliştirdim. Kodlarım gelişti ve o zaman yaklaşık 200.000 kişiye hizmet verdim. Kodların paylaşılabileceği bir websitesi yaptım. Burada sadece biz yöneticiler değil. Diğer üyelerimiz de kod paylaşımı yapabiliyordu. Kod sunucularında ilk paralı kod satın alımını burada biz gerçekleştirdik. Belli bir koda ulabilmek için belli bir ücret ödemek gerekiyordu. İlk defa bir ödeme altyapısı yapmıştım.`,
   "Kodlama Eğitmeni",
   "CodAre",
