@@ -52,49 +52,49 @@ hoverChangeExperience(
 
 hoverChangeDescription(
   ".html",
-  "HTML é uma linguagem de marcação, onde marcamos os elementos para definir quais informações a página vai exibir."
+  "HTML, sayfanın hangi bilgileri görüntüleyeceğini tanımlamak için öğeleri işaretlediğimiz bir biçimlendirme dilidir."
 );
 hoverChangeDescription(
   ".css",
-  "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas."
+  "CSS, sayfaları şekillendirmek amacıyla oluşturulmuş 'katmanlardan' oluşan bir stil sayfası dilidir."
 );
 hoverChangeDescription(
   ".js",
-  "JavaScript é uma linguagem de programação que permite a você implementar elementos dinâmicos em páginas web."
+  "JavaScript, web sayfalarına dinamik öğeler uygulamanıza olanak tanıyan bir programlama dilidir."
 );
 hoverChangeDescription(
   ".sass",
-  "Sass é um pré-processador CSS que adiciona alguns recursos que não estão disponíveis de forma nativa."
+  "Sass, yerel olarak mevcut olmayan bazı özellikleri ekleyen bir CSS ön işlemcisidir."
 );
 hoverChangeDescription(
   ".react",
-  "React é uma biblioteca JavaScript com foco em criar interfaces de usuário de forma componetizada."
+  "React, birleşik bir şekilde kullanıcı arayüzleri oluşturmaya odaklanan bir JavaScript kitaplığıdır."
 );
 hoverChangeDescription(
   ".next",
-  "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
+  "Next.js, sunucu tarafı oluşturma ve statik React tabanlı web siteleri oluşturma gibi işlevlere olanak tanıyan bir web çerçevesidir."
 );
 hoverChangeDescription(
   ".styled",
-  "styled-components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  "styled-components CSS-in-JS konseptini kullanan yani Javascript içerisinde CSS kodları yazmamızı sağlayan bir kütüphanedir."
 );
 hoverChangeDescription(
   ".tailwind",
-  "Tailwind CSS é um framework CSS que nos fornece classes utilitárias com o propósito de estilizar as páginas."
+  "Tailwind CSS, sayfaların şekillendirilmesi amacıyla bize yardımcı sınıflar sağlayan bir CSS çerçevesidir."
 );
 hoverChangeDescription(
   ".typescript",
-  "TypeScript é um superset do JavaScript que incluir recursos que não estão presentes na linguagem de forma nativa, além de torná-la estática."
+  "TypeScript, dili statik hale getirmenin yanı sıra, dilde yerel olarak bulunmayan özellikleri içeren bir JavaScript üst kümesidir."
 );
 hoverChangeDescription(
   ".radix",
-  "Radix é uma biblioteca que fornece componentes acessíveis e sem estilos para a criação de aplicação em React."
+  "Radix, React uygulamaları oluşturmak için erişilebilir, stilsiz bileşenler sağlayan bir kütüphanedir."
 );
 hoverChangeDescription(
   ".cypress",
-  "Cypress é um framework para automação de testes end-to-end, onde atualmente usa a linguagem JavaScript."
+  "Cypress, şu anda JavaScript dilini kullanan, uçtan uca test otomasyonuna yönelik bir çerçevedir."
 );
 hoverChangeDescription(
   ".storybook",
-  "Storybook é uma ferramenta que tem como objetivo documentar e testar os componentes da aplicação."
+  "Storybook, uygulama bileşenlerini belgelemeyi ve test etmeyi amaçlayan bir araçtır."
 );
