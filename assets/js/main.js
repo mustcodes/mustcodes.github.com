@@ -20,7 +20,7 @@ hoverChangeExperience(
   ".zuplae",
   `Thetis Development, kendi oluşturduğum insanların birbirinden destek alabileceği bir Discord platformudur. Bu platformda insanlar kodlama esnasında yaşadıkları hataları bizlere bildirip ardından yardım alarak hatalarını düzeltmişlerdir. Thetis Dev. 2 yıl içerisinde 124.000 aktif kullanıcıya ulaşmıştır. Yönetici görevimden istifa ederek platformu devrettim.`,
   "Üst Düzey Yönetici",
-  "Thetis Dev",
+  "Thetis Development",
   "Kasım 2021 - Aralık 2023 (2 yıl 1 ay)"
 );
 
